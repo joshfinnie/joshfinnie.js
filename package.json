@@ -1,0 +1,22 @@
+{
+  "name": "joshfinnie",
+  "version": "0.0.1",
+  "description": "The personal information of Josh Finnie.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshfinnie/joshfinnie.git"
+  },
+  "keywords": [
+    "joshfinnie"
+  ],
+  "author": "Josh Finnie <josh@jfin.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshfinnie/joshfinnie/issues"
+  },
+  "homepage": "https://github.com/joshfinnie/joshfinnie#readme"
+}
