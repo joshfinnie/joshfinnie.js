@@ -3,8 +3,7 @@
 ### Installation & Use
 
 ```
-$ yarn global install joshfinnie
-$ joshfinnie
+$ npx joshfinnie
 
 •-----------------------------------------------------------•
 |                        Josh Finnie                        |
@@ -21,4 +20,3 @@ $ joshfinnie
 |    Instagram URL | https://www.instagram.com/joshfinnie/  |
 •-----------------------------------------------------------•
 ```
-
